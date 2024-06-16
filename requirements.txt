@@ -157,7 +157,7 @@ python-json-logger==2.0.7
 python-multipart==0.0.9
 pytz==2023.3.post1
 pyusb==1.2.1
-pywin32
+pywin32==306
 pywin32-ctypes==0.2.2
 pywinpty==2.0.13
 pywinusb==0.4.2
